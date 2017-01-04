@@ -8,6 +8,14 @@
 **Thoughts:** Great start for me. I learned about Parcelable in Android and how it is more efficient than Serializable by implementing in my app.
 
 **Link to work:** [Popular Movies App](https://github.com/ansh94/PopularMovies) 
+
+### Day 2: January 04, 2017
+
+**Today's Progress**: Added Settings Activity and used PreferenceFragment to sort movies by popular or top-rated and used SharedPreferences to remember the selected setting.
+
+**Thoughts:** I got stuck for some time trying to figure out PreferencesFragment but in the end with the help of some tutorials and stackoverflow I managed to successfully implement it in my app :) Bring on day 3!!
+
+**Link to work:** [Popular Movies App](https://github.com/ansh94/PopularMovies) 
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
