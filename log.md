@@ -16,6 +16,15 @@
 **Thoughts:** I got stuck for some time trying to figure out PreferencesFragment but in the end with the help of some tutorials and stackoverflow I managed to successfully implement it in my app :) Bring on day 3!!
 
 **Link to work:** [Popular Movies App](https://github.com/ansh94/PopularMovies) 
+
+
+### Day 3: January 05, 2017
+
+**Today's Progress**: Provided up navigation(back arrow) from MovieDetails Activity to the Main activity.
+
+**Thoughts:** Not much progress today as I was out for almost the whole day celebrating Gurpurab but still managed to do a minor task in my app to keep myself in the flow.I will make it up by doing an extra hour of coding on Day 4!!
+
+**Link to work:** [Popular Movies App](https://github.com/ansh94/PopularMovies) 
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
