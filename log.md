@@ -24,7 +24,15 @@
 
 **Thoughts:** Not much progress today as I was out for almost the whole day celebrating Gurpurab but still managed to do a minor task in my app to keep myself in the flow.I will make it up by doing an extra hour of coding on Day 4!!
 
-**Link to work:** [Popular Movies App](https://github.com/ansh94/PopularMovies) 
+**Link to work:** [Popular Movies App](https://github.com/ansh94/PopularMovies)
+
+### Day 4: January 06, 2017
+
+**Today's Progress**: Added preference summary in SettingsActivity. Checked the app for crashes when no internet connection or when wrong api call is made and did the required error handling. Cleaned up some old unused code and did the finishing touches before submitting the project for Udacity Review.
+
+**Thoughts:** Finally I managed to submit my first project of the Android Nanodegree. Hoping to get a good feedback which meets all the specifications.
+
+**Link to work:** [Popular Movies App](https://github.com/ansh94/PopularMovies)
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
