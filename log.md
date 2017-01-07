@@ -33,6 +33,14 @@
 **Thoughts:** Finally I managed to submit my first project of the Android Nanodegree. Hoping to get a good feedback which meets all the specifications.
 
 **Link to work:** [Popular Movies App](https://github.com/ansh94/PopularMovies)
+
+### Day 5: January 07, 2017
+
+**Today's Progress**: Fixed some errors and suggestions which were suggested by my Udacity reviewer.
+
+**Thoughts:** My first project met all the specifications finally and got approved. Now I can move forward to learning new things in Android. #NeverGiveUp
+
+**Link to work:** [Popular Movies App](https://github.com/ansh94/PopularMovies)
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
