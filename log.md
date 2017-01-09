@@ -41,6 +41,22 @@
 **Thoughts:** My first project met all the specifications finally and got approved. Now I can move forward to learning new things in Android. #NeverGiveUp
 
 **Link to work:** [Popular Movies App](https://github.com/ansh94/PopularMovies)
+
+### Day 6: January 08, 2017
+
+**Today's Progress**: Went through my first project and added comments wherever necessary.
+
+**Thoughts:** Not much progress today as I went for shopping the whole day.
+
+**Link to work:** [Popular Movies App](https://github.com/ansh94/PopularMovies)
+
+### Day 7: January 09, 2017
+
+**Today's Progress**: Learned about FastAdapter(by mikepenz) and how it is much more faster to use than traditional RecyclerView and Adapter. Also it has a lot of features which can be implemented easily without much boilerplate code. 
+
+**Thoughts:** I will use FastAdapter for all my upcoming projects!!
+
+**Link to work:** [FastAdapter](https://github.com/ansh94/FastAdapter)
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
