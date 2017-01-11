@@ -57,6 +57,18 @@
 **Thoughts:** I will use FastAdapter for all my upcoming projects!!
 
 **Link to work:** [FastAdapter](https://github.com/ansh94/FastAdapter)
+
+### Day 8: January 10, 2017
+
+**Today's Progress**: Watched Udacity videos on Activity Lifecycle and learned about all its methods. Also learned about onSaveInstanceState to save states when rotating the device(or emulator). Reinforced my learning by doing coding exercises on these topics.
+
+**Thoughts:** Activity Lifecycle is a very important part of an Android app and we should prepare our apps for untimely deaths or termination by using onSaveInstanceState wherever necessary.
+
+### Day 9: January 11, 2017
+
+**Today's Progress**: Learned about Loaders and AsyncTaskLoaders and how they are much more useful and efficient than traditional AsyncTask. They prevent duplication of background threads and eliminates zombie activities when screen is rotated. Implemented them in Github Search Toy app and changed sunshine app from asynctask to asynctaskloader. Now sunshine fetches weather data using a AsyncTaskLoader :smile: 
+
+**Thoughts:** Saying goodbye to AsyncTask and hello to AsyncTaskLoader from today and in all my future projects :metal:
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
